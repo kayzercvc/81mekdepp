@@ -1,0 +1,19 @@
+<html>
+
+<title>81mekdep</title>
+
+<div class="header-area header-sticky">
+    <div class="container">
+        <div class="nav">
+            <div class="row">
+                <a="product-details.html"><img src="assets/images/web_sayt.jpg" alt="" style="width:1400px;"></a>
+            </div>
+            <div class="down-content">
+                <h4></h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</html>
